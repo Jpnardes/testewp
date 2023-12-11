@@ -1,0 +1,25 @@
+@charset 'UTF-8';
+  @import url('https://fonts.googleapis.com/css2?family=Italiana&display=swap');
+
+  @font-face {
+    font-family: 'gabriela';
+    src: url('/font/gabriela-regular.ttf');
+    }
+  @font-face {
+    font-family: 'EBGaramond' ;
+    src: url('/font/EBGaramond12-Regular.otf');
+  }  
+
+
+    .font-nav{
+        font-family: 'Italiana', sans-serif;
+    }
+   
+    .font-main{
+        font-family: 'gabriela';
+        font-size: 4.5rem;
+    }
+    .font-p-main{
+        font-family: 'EBGaramond';
+        font-size: 2.2rem;
+    }
