@@ -2,6 +2,10 @@
   @import url('https://fonts.googleapis.com/css2?family=Italiana&display=swap');
 
   @font-face {
+    font-family: 'apolline';
+    src: url('/font/apolline.ttf');
+  }
+  @font-face {
     font-family: 'gabriela';
     src: url('/font/gabriela-regular.ttf');
     }
@@ -10,7 +14,9 @@
     src: url('/font/EBGaramond12-Regular.otf');
   }  
 
-
+    .b-font{
+      font-family:'apolline', sans-serif;
+    }
     .font-nav{
         font-family: 'Italiana', sans-serif;
     }
